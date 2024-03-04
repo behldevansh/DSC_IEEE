@@ -34,108 +34,92 @@ export const HeroData = [
 export const features = [
   {
     icon: "/features/Frame-0.png",
-    title: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "DSSYWC provides thought-provoking exploration into cutting-edge developments in engineering and technology, featuring renowned experts who have significantly shaped these fields.",
   },
   {
     icon: "/features/Frame-1.png",
-    title: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "By bringing together distinguished speakers, interactive discussions, and a platform for collaboration, this event aims to inspire, educate, and propel the audience into the future of innovation.",
   },
   {
     icon: "/features/Frame-2.png",
-    title: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
-  },
-  {
-    icon: "/features/Frame-3.png",
-    title: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
-  },
-  {
-    icon: "/features/Frame-4.png",
-    title: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
-  },
-  {
-    icon: "/features/Frame-5.png",
-    title: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "These sessions provide transformative experience shaping the way we perceive and engage with the ever-evolving world of engineering and technology.",
   },
 ];
 
 export const ourDiffFeatures = [
   {
     icon: "/OurDiff/Frame-0.png",
-    title: "Data Driven",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "Serendipity",
+    des: "When knowledge is orchestrated by collecting random harmony and putting it together, it creates the melody of unpredictability.",
   },
   {
     icon: "/OurDiff/Frame-1.png",
-    title: "flexible funding",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "Incubator",
+    des: "DSSYWC provides the perfect opportunity to test your wits against the practical world out there while igniting your critical and strategic thinking for everyone who is interested in stepping into the world of entrepreneurship",
   },
   {
     icon: "/OurDiff/Frame-2.png",
-    title: "value accelerating",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "Empowerment",
+    des: "DSSYWC offers an invaluable platform for individuals keen on venturing into entrepreneurship, fostering the development of critical thinking and strategic acumen essential for navigating the practical challenges of the business world.",
   },
 ];
 
 export const hitFeatures = [
   {
     icon: "/howItWorks/Frame-0.png",
-    title: "Connect",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "KAHOOT QUIZ",
+    des: "The IEEE Kahoot event was an electrifying experience filled with excitement and enjoyment, providing an opportunity for participants to showcase their knowledge of IEEE and compete for thrilling prizes.",
   },
   {
     icon: "/howItWorks/Frame-1.png",
-    title: "Experts help",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "CULTURAL NIGHT",
+    des: "Cultural Night was a vibrant celebration revolving around joy and entertainment. Music and dance became the center of the festivities.",
   },
   {
     icon: "/howItWorks/Frame-2.png",
-    title: "Support Growth",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "HALL OF FAME",
+    des: "The Hall of Fame, also known as The Talent Hunt, offered an outstanding platform for participants to engage in friendly competition with a diverse array of talent. Being a unique opportunity to present their skills it also provided the enticing incentive of winning exciting prizes.",
   },
 ];
 
 export const whoWeInvest = [
   {
-    title: "heading 1",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "Engaging Content : ",
+    des: "The congress offered highly engaging and informative sessions, catering to the diverse interests and needs of students, young professionals, and women in engineering.",
   },
   {
-    title: "heading 2",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "Empowering Atmosphere : ",
+    des: " It fostered an empowering atmosphere where participants felt encouraged to share their experiences, insights, and aspirations, creating a supportive community within IEEE.",
   },
   {
-    title: "heading 3",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
-  },
-  {
-    title: "heading 4",
-    des: "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    title: "Networking Opportunities : ",
+    des: "The event provided invaluable networking opportunities, allowing attendees to connect with peers, mentors, and industry professionals, facilitating collaborations and career growth.",
   },
 ];
 
 export const testimonialsData = [
   {
     comment:
-      "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
-    name: "bhupinder jogi",
-    profession: "architect",
+      "The congress promoted diversity and inclusion, highlighting the importance of representation and equality within the fields of science, technology, engineering, and mathematics (STEM).",
+    name: "Utkarsh Shrivastava",
+    profession: "Head of Technical Department",
   },
   {
     comment:
-      "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
-    name: "bhupinder jogi",
-    profession: "Founder",
+      "Overall, the congress left a lasting motivational impact on participants, empowering them to pursue their goals with confidence and enthusiasm, while reinforcing the importance of continued involvement in IEEE activities and initiatives.",
+    name: "Ansh Arora",
+    profession: "General Secretary ",
   },
   {
     comment:
-      "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
-    name: "bhupinder jogi",
-    profession: "Director",
+      "Workshops and discussions facilitated skill development, equipping participants with practical knowledge and strategies to excel in their academic and professional pursuits.",
+    name: "Tarun Kumar Sharma",
+    profession: "Chairperson",
   },
   {
     comment:
-      "lorem ispum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
-    name: "bhupinder jogi",
-    profession: "Manager, ",
+      "The presence of accomplished speakers and role models inspired attendees, showcasing the potential for success and leadership within the IEEE community",
+    name: "Yogya Aggarwal",
+    profession: "General Secretary ",
   },
 ];

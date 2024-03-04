@@ -14,11 +14,11 @@ const Info = () => {
           <div className='wwd-container'>
           {/* head section */}
              <div className='wwd-head'>
-             <motion.span initial="offscreen" whileInView={"onscreen"} variants={tagVariants} className='tag'>heading 1</motion.span>
+             <motion.span initial="offscreen" whileInView={"onscreen"} variants={tagVariants} className='tag'>Event-1</motion.span>
 
-                <motion.span initial="offscreen" whileInView={"onscreen"} variants={titleVariants} className='title'>{""} heading 2</motion.span>
+                <motion.span initial="offscreen" whileInView={"onscreen"} variants={titleVariants} className='title'>{""} SPEAKER SESSIONS</motion.span>
                 
-                <motion.span initial="offscreen" whileInView={"onscreen"} variants={desVariants} className='des'>heading 3</motion.span>
+                <motion.span initial="offscreen" whileInView={"onscreen"} variants={desVariants} className='des'>*********</motion.span>
 
              </div>
 
@@ -26,8 +26,8 @@ const Info = () => {
              <div className='wwd-blocks'>
                 {/* first block */}
                 <div className='wwd-block'>
-                  <motion.span variants={titleVariants} initial="offscreen" whileInView={"onscreen"} className='sec-title'>subheading 1</motion.span>
-                  <motion.span variants={desVariants} initial="offscreen" whileInView={"onscreen"} className='text'>text info </motion.span>
+                  <motion.span variants={titleVariants} initial="offscreen" whileInView={"onscreen"} className='sec-title'>Speaker sessions featured diverse topics ranging from young professional experiences to international seminars at the DSSYWC 2022.</motion.span>
+                  <motion.span variants={desVariants} initial="offscreen" whileInView={"onscreen"} className='text'>********* </motion.span>
                 
 
                 <div className='block-features'>
@@ -54,14 +54,12 @@ const Info = () => {
 
              {/* left side */}
              <div >
-                <span className='sec-title'> heading  </span>
-                <span className='des'> thoda text</span>
+                <span className='sec-title'> ABOUT IEEE NSUT  </span>
              </div>
 
              {/* right side */}
              <div >
-                <span className='text'> bahot bahot bahot saara text  </span>
-                <span className='text'> bahot saara text</span>
+                <span className='text'> IEEE NSUT, the largest student branch in Region 10 Asia Pacific and ranked fifth globally, exemplifies a steadfast dedication to technological progress through organizing diverse national-level events and conferences. Honored with the "IEEE Regional Exemplary Student Branch Award 2022" for outstanding performance, IEEE NSUT aims to make cutting-edge technologies accessible, inspiring the community and shaping the future of engineering.</span>
              </div>
             
                 

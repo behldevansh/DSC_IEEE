@@ -16,13 +16,13 @@ const teacher = () => {
                         variants={tagVariants}
                         initial="offscreen"
                         whileInView={"onscreen"}
-                         className='tag'>choti heading</motion.span>
+                         className='tag'>Chair Elect IEEE India Council</motion.span>
 
                         <motion.span
                         variants={titleVariants}
                         initial="offscreen"
                         whileInView={"onscreen"}
-                         className='title'>badi heading</motion.span>
+                         className='title'>Prof. Prerna Gaur</motion.span>
                     </div>
 
                     {/* features */}

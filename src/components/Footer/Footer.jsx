@@ -9,7 +9,7 @@ const Footer = () => {
     <div className='f-wrapper'>
        <div className='container'>
           <div className='f-container'>
-               <span className='title'>IEEE NSUT WELCOMES YOU</span>
+               <span className='title'>IEEE NSUT WELCOMES YOU !!</span>
 
                <hr/>
                <div className='f-menu'>

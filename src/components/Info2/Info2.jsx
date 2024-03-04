@@ -16,19 +16,19 @@ const Info2 = () => {
                  variants={tagVariants}
                  initial="offscreen"
                   whileInView={"onscreen"}
-                 className='tag'>ek lambi heading</motion.span>
+                 className='tag'>Event-2</motion.span>
 
                  <motion.span 
                  variants={titleVariants}
                   initial="offscreen"
                   whileInView={"onscreen"}
-                 className='title'> ek choti heading</motion.span>
+                 className='title'> ENTREPRENUERIAL EVENTS</motion.span>
 
                  <motion.span
                  variants={desVariants}
                   initial="offscreen"
                   whileInView={"onscreen"}
-                  className='text'> thoda explanation</motion.span>
+                  className='text'> </motion.span>
 
                 </div>
             </div>

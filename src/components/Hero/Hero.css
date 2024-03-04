@@ -116,6 +116,7 @@
     .h-right{
         flex: 1;
         align-items: center;
+        margin: auto;
     }
     .h-title{
         align-items: center;

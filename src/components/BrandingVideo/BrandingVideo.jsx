@@ -17,7 +17,7 @@ const BrandingVideo = () => {
       <div className='container'>
         <motion.video className='bv-video'
         ref={ref} loop muted autoPlay controls="" style={{scale}}>
-            <source src="/video.mp4" type='video/mp4'/>
+            <source src="/video1.mp4" type='video/mp4'/>
         </motion.video>
       </div>
 
