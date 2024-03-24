@@ -10,12 +10,16 @@ import Info3 from '@/src/components/Info3/Info3';
 import Teacher from '@/src/components/Teacher/Teacher';
 import Testimonials from '@/src/components/Testimonials/Testimonials';
 import Footer from '@/src/components/Footer/Footer';
+import GithubCorner from '@/src/components/GithubCorner';
 
 
 export default function Home() {
   const controls = useAnimation();
 
   return (
+    <>
+    <GithubCorner url='https://github.com/behldevansh/DSC_IEEE'/>
+
     <motion.div className="app" animate={controls}>
     <Navbar/>
     <Hero/>
@@ -53,6 +57,6 @@ export default function Home() {
     <Testimonials/>
     <Footer/>
     </motion.div>
-
+  </>
   );
 }
